@@ -1,0 +1,22 @@
+# 🧠 MindMate – Student Mental Wellness Companion
+
+A modern student wellness web app built with **Python, Streamlit, MySQL, and Pandas**. It helps students track their moods, maintain a personal journal, view mood analytics, practice breathing exercises, and explore simple wellness tips.
+
+### ✨ Features
+
+* 😊 Mood Check-in & Tracking
+* 📊 Mood Analytics
+* 📖 Personal Journal
+* 🧘 Guided Breathing Exercise
+* 🌱 Wellness Tips
+* 🗄️ MySQL Database Integration
+* 🎨 Modern Streamlit UI
+
+### 🛠️ Tech Stack
+
+1.Python 
+2. Streamlit 
+3. MySQL 
+4. Pandas
+
+
